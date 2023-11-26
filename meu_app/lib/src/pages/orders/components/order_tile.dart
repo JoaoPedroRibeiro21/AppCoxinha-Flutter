@@ -136,7 +136,6 @@ class OrderTile extends StatelessWidget {
 
 class _OrderItemWidget extends StatelessWidget {
   const _OrderItemWidget({
-    super.key,
     required this.utilsServices,
     required this.orderItem,
   });
